@@ -1,4 +1,4 @@
-# Rätta svaren
+# Rätta svaren (tips2)
 
 ## Fråga 1
 
@@ -48,3 +48,9 @@ Volvo 240 började tillverkas 1974, när slutade man tillverka den?
 När får man jaga svalor i sverige?
 
 **2** Aldrig, svalan är fridlyst Källa, google
+
+## Fråga 9
+
+**Ahlgrens bilar Original** brukar kallas sveriges mest köpta bil. Vilket år uppkom orginalet?
+
+**1** 1953 Källa [cloetta](https://www.cloetta.se/produkter/ahlgrens-bilar-original-160g/)
