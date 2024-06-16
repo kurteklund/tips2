@@ -30,3 +30,9 @@ Källa [jordbruksverket](https://jordbruksverket.se/e-tjanster-databaser-och-app
 Vilket år skapades Facebook?
 
 **1** 2004, Källa[https://about.meta.com/se/media-gallery/executives/mark-zuckerberg/]
+
+## Fråga 6
+
+**Poker Face** är en sång av Lady Gaga, men vilket år släpptes den?
+
+**X** 2008, Källa, [wikipedia](https://sv.wikipedia.org/wiki/Poker_Face)
