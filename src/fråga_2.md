@@ -1,9 +1,11 @@
 # Fråga 2
 
-![Bild]()
+![Bild](./popcorn.jpg)
 
-**1**
+Vilken var den mest sedda biofilmen 2023?
 
-**X**
+**1** Avatar: The Way of Water
 
-**2**
+**X** Oppenheimer
+
+**2** Barbie
