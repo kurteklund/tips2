@@ -24,3 +24,9 @@ Hur många hundar var registrerade hundar fanns det jordbruksverket (2024-06-16)
 
 **1** 1 138 000
 Källa [jordbruksverket](https://jordbruksverket.se/e-tjanster-databaser-och-appar/e-tjanster-och-databaser-djur/hundregistret/statistik-ur-hundregistret)
+
+## Fråga 5
+
+Vilket år skapades Facebook?
+
+**1** 2004, Källa[https://about.meta.com/se/media-gallery/executives/mark-zuckerberg/]
