@@ -1,11 +1,11 @@
 # Fråga 1
 
-![Bild]()
+Hur stor del av Sveriges elproduktion var vidkraft 2023
 
-fråga
+![Bild](https://cdn.pixabay.com/photo/2021/03/08/20/47/windrader-6080253_960_720.jpg)
 
-**1**
+**1** 11%
 
-**X**
+**X** 21%
 
-**2**
+**2** 31%

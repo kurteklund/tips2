@@ -3,7 +3,7 @@ authors = ["kurteklund"]
 language = "sv"
 multilingual = false
 src = "src"
-title = "Tips 1"
+title = "Tips 2"
 
 [build]
 build-dir = "docs"
