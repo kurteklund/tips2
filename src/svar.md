@@ -42,3 +42,9 @@ Vilket år skapades Facebook?
 Volvo 240 började tillverkas 1974, när slutade man tillverka den?
 
 **2** 1993 [wikipedia](<https://sv.wikipedia.org/wikiVolvo> 240 började tillverkas 1974, när slutade man tillverka den?/Volvo_240)
+
+## Fråga 8
+
+När får man jaga svalor i sverige?
+
+**2** Aldrig, svalan är fridlyst Källa, google
