@@ -36,3 +36,9 @@ Vilket år skapades Facebook?
 **Poker Face** är en sång av Lady Gaga, men vilket år släpptes den?
 
 **X** 2008, Källa, [wikipedia](https://sv.wikipedia.org/wiki/Poker_Face)
+
+## Fråga 7
+
+Volvo 240 började tillverkas 1974, när slutade man tillverka den?
+
+**2** 1993 [wikipedia](<https://sv.wikipedia.org/wikiVolvo> 240 började tillverkas 1974, när slutade man tillverka den?/Volvo_240)
