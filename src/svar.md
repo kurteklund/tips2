@@ -73,3 +73,9 @@ Finländare är den mest kaffedrickande nationaliteten, de dricker omkring 12 ki
 Hur mycket kaffe per person och år dricker svenskar i denna undersökning?
 
 **X** 8,2 kg Källa 1 [chartsbin](http://chartsbin.com/view/581), Källa 2 [wikipedia](https://sv.wikipedia.org/wiki/Kaffe)
+
+## Fråga 13
+
+**Shrek** är en amerikansk datoranimerad komedi, vilket år hade den premiär?
+
+**1** 2001, Källa [wikipedia](https://sv.wikipedia.org/wiki/Shrek)
