@@ -73,4 +73,4 @@ Finländare är den mest kaffedrickande nationaliteten, de dricker omkring 12 ki
 
 Hur mycket kaffe per person och år dricker svenskar i denna undersökning?
 
-**2** 8,2 kg Källa1 [chartsbin](http://chartsbin.com/view/581), Källa2 [wikipedia](https://sv.wikipedia.org/wiki/Kaffe)
+**X** 8,2 kg Källa 1 [chartsbin](http://chartsbin.com/view/581), Källa 2 [wikipedia](https://sv.wikipedia.org/wiki/Kaffe)
