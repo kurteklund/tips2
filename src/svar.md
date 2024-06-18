@@ -14,7 +14,7 @@ Vilken var den mest sedda biofilmen 2023?
 
 ## Fråga 3
 
-Vem hade det "gamla" svenska rekorted på 10 000 meter?
+Vem hade det "gamla" svenska rekordet på 10 000 meter?
 
 **X** Jonny Danielsson, Källa [wikipedia](https://sv.wikipedia.org/wiki/Andreas_Almgren)
 
@@ -29,7 +29,7 @@ Källa [jordbruksverket](https://jordbruksverket.se/e-tjanster-databaser-och-app
 
 Vilket år skapades Facebook?
 
-**1** 2004, Källa[https://about.meta.com/se/media-gallery/executives/mark-zuckerberg/]
+**1** 2004, Källa [meta](https://about.meta.com/se/media-gallery/executives/mark-zuckerberg/)
 
 ## Fråga 6
 
@@ -51,7 +51,7 @@ När får man jaga svalor i sverige?
 
 ## Fråga 9
 
-**Ahlgrens bilar Original** brukar kallas sveriges mest köpta bil. Vilket år uppkom orginalet?
+**Ahlgrens bilar Original** brukar kallas sveriges mest köpta bil. Vilket år uppkom originalet?
 
 **1** 1953 Källa [cloetta](https://www.cloetta.se/produkter/ahlgrens-bilar-original-160g/)
 
@@ -60,3 +60,9 @@ När får man jaga svalor i sverige?
 Den lägsta temperaturen som någonsin noterats vid en officiell mätstation i Sverige uppmättes 1966 i Vuoggatjålme. Hur kallt var det?
 
 **1** -52,6 grader [Källa](https://www.svt.se/vader/minus-40-vartannat-ar-har-ar-sveriges-koldhal)
+
+## Fråga 11
+
+Vad är den officiella svenska rekordet för sportfiske i sötvatten när det gäller gädda?
+
+**1** 21,070 kg, Källa [sportfiskarna.se](https://www.sportfiskarna.se/Storfiskregistret/Sportfiskerekord-s%C3%B6tvatten)
