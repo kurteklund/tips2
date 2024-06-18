@@ -54,3 +54,9 @@ När får man jaga svalor i sverige?
 **Ahlgrens bilar Original** brukar kallas sveriges mest köpta bil. Vilket år uppkom orginalet?
 
 **1** 1953 Källa [cloetta](https://www.cloetta.se/produkter/ahlgrens-bilar-original-160g/)
+
+## Fråga 10
+
+Den lägsta temperaturen som någonsin noterats vid en officiell mätstation i Sverige uppmättes 1966 i Vuoggatjålme. Hur kallt var det?
+
+**1** -52,6 grader [Källa](https://www.svt.se/vader/minus-40-vartannat-ar-har-ar-sveriges-koldhal)
