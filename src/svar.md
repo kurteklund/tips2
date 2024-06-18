@@ -66,3 +66,11 @@ Den lägsta temperaturen som någonsin noterats vid en officiell mätstation i S
 Vad är den officiella svenska rekordet för sportfiske i sötvatten när det gäller gädda?
 
 **1** 21,070 kg, Källa [sportfiskarna.se](https://www.sportfiskarna.se/Storfiskregistret/Sportfiskerekord-s%C3%B6tvatten)
+
+## Fråga 12
+
+Finländare är den mest kaffedrickande nationaliteten, de dricker omkring 12 kilogram kaffe per person och år (2011).
+
+Hur mycket kaffe per person och år dricker svenskar i denna undersökning?
+
+**2** 8,2 kg Källa1 [chartsbin](http://chartsbin.com/view/581), Källa2 [wikipedia](https://sv.wikipedia.org/wiki/Kaffe)
